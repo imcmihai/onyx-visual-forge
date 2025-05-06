@@ -2,7 +2,7 @@
 import { useRef, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ArrowRight, User, GitHub, Linkedin, Instagram, Mail } from "lucide-react";
+import { ArrowRight, User, Github, Linkedin, Instagram, Mail } from "lucide-react";
 import RippleButton from '@/components/ui/RippleButton';
 import { useIsMobile } from '@/hooks/use-mobile';
 import * as THREE from 'three';
