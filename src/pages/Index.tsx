@@ -147,7 +147,7 @@ const Index = () => {
                 transition={{ delay: 1.1, duration: 0.5 }}
               >
                 <a href="#" className="text-muted-foreground hover:text-white transition-colors">
-                  <GitHub size={20} />
+                  <Github size={20} />
                 </a>
                 <a href="#" className="text-muted-foreground hover:text-white transition-colors">
                   <Linkedin size={20} />
